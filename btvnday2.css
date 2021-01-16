@@ -1,0 +1,29 @@
+h1 {
+    font-size: 45px;
+    color: deeppink;
+    
+}
+h3 {
+    color: dimgray;
+}
+h2 {
+    color: black;
+}
+p {
+    color: dimgray;
+}
+div {
+    width: 230px;
+    height: 70px;
+    border:  solid blue;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 10px;
+    padding-right: 1px;
+    background-color: blue;
+    
+}
+h4 {
+    color: cornsilk;
+    font-size: larger;
+}
