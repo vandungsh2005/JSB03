@@ -1,0 +1,21 @@
+h2 {
+    font-size: large;
+}
+p {
+    color: gray;
+}
+div {
+    width: 200px;
+    height: 70px;
+    border:  solid darkblue;
+    background-color:darkblue;
+    
+}
+h5 {
+    font-size: large;
+    color: whitesmoke;
+    text-align: center;
+}
+h3 {
+    color: rgba(26, 25, 25, 0.767);
+}
