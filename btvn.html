@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+        <head>
+                <title>Change Color</title>
+                <link href="./btvn.css" type="text/css" rel="stylesheet"/>
+        </head>
+<body>
+<div id="change"></div>
+<p id="demo"></p>
+<script>
+var x = document.getElementById("change");
+x.addEventListener("mouseover", myFunction);
+x.addEventListener("mouseout", myThirdFunction);
+
+function myFunction() {
+  document.getElementById("demo").innerHTML += "Doi mau!<br>"
+}
+
+function myThirdFunction() {
+  document.getElementById("demo").innerHTML += "Tro lai mau cu!<br>"
+}
+</script>
+
+</body>
+</html>
